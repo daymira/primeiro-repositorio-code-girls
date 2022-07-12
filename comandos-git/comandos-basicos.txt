@@ -1,0 +1,7 @@
+git clone = clona um repositório na máquina local
+git status = mostra em qual branch você se encontra, e como está o estado dos arquivos
+git add = adiciona os arquivos a serem comitados 
+git commit = grava as modificacões dos arquivos na pasta local
+git push = adiciona as modificações no repositório remoto
+
+Mais comandos git: https://comandosgit.github.io/
