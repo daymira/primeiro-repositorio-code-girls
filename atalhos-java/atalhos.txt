@@ -1,0 +1,7 @@
+control 3 = perpesctiva
+control m = minimizar janelas
+contrl n = criar novo projeto,pasta
+control d = apagar linha
+control 3 = comandos
+
+control shift l = dá pra ver todos os atalhos que tem no eclipse, porém em inglês
