@@ -1,7 +1,21 @@
+Atalhos do eclipse
+sysout = imprimir na tela
+f2 = renomear pastas
 control 3 = perpesctiva
 control m = minimizar janelas
 contrl n = criar novo projeto,pasta
 control d = apagar linha
 control 3 = comandos
+control shift c = comenta
 
 control shift l = dá pra ver todos os atalhos que tem no eclipse, porém em inglês
+
+
+Atalhos do intellij
+alt insert = opçoes de projeto
+sout = imprimir na tela
+control shift /= comenta
+control / = comenta linha por linha
+control y = apaga a linha
+shift f6 = renomear pastas, atributos...
+control d = duplica linha
